@@ -1,16 +1,18 @@
-## Hi there 👋
+# José de Jesús
 
-<!--
-**Confley/Confley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer | Ing. TIC's | Bases de Datos**
 
-Here are some ideas to get you started:
+🚀 Transformando ideas en soluciones digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Desarrollador apasionado por la eficiencia, la precisión y el aprendizaje continuo. Me encanta resolver problemas con código, pero no problemas de código :v
+
+## Habilidades
+- **Frontend**: React
+- **Backend**: Node.js
+- **Bases de Datos**: SQL, NoSQL
+- **Ciberseguridad**: Entusiasta :v
+
+## Enlaces
+- [Portafolio](https://confley.vercel.app)
+- [Currículum](https://confley.notion.site/CV-Torres-Esparza-Jos-de-Jes-s-1ce4de054bd6408fb6fa8d52fdd0eb11)
