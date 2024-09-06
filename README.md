@@ -2,29 +2,99 @@
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=🐟&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header" width="100%"/>
 
-
-<!-- CONTENT -->
-<div align="center" width="100">
+<!-- PRESENTATION -->
+<div align="center" width="200" >
   <samp>
-    Yo soy <strong>Confley</strong> desarrollador <strong>full-stack</strong> apasionado por resolver problemas y no que los problemas 
-    </br> 
-    me resuelvan a mi :v
+    Yo soy 
+    <a href="https://confley.vercel.app/"><strong>Confley</strong></a> desarrollador 
+    <strong>full-stack</strong> apasionado por resolver problemas y no que los problemas me resuelvan a mi :v
   </samp>
 </div>
 
-</br>
+</br><br/>
 
-### Tecnologías
-<img align='right' src='https://i.pinimg.com/originals/ba/c1/cd/bac1cdc1522ec6e9305e9e9b38b20bfd.gif' width='200"'>
-  
-- **Frontend**: `React JS`
-- **Backend**: `Node JS` 
-- **Bases de Datos**: `SQL | NoSQL`
-- **Ciberseguridad**: `Entusiasta` :v
+<!-- CONTENT -->
+<img align='right' src='https://i.pinimg.com/originals/ba/c1/cd/bac1cdc1522ec6e9305e9e9b38b20bfd.gif' width='440'>
 
-### Enlaces
-- [Portafolio](https://confley.vercel.app)
-- [Currículum](https://confley.notion.site/CV-Torres-Esparza-Jos-de-Jes-s-1ce4de054bd6408fb6fa8d52fdd0eb11)
+### [Stack](https://skillicons.dev)
+
+<div align="center">
+  <!-- Frontend -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
+  </a>
+
+  <!-- Backend -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />
+  </a>
+  <br/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" />
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  </a>
+
+  <!-- Databases -->
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+  </a>
+  <a href="https://firebase.google.com/docs?hl=es-419" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" />
+  </a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" />
+  </a>
+
+  <!-- Tools -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
+  </a>
+  <br/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  </a>
+  <a href="https://www.sublimetext.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" title="Sublime Text" />
+  </a>
+
+  <!-- Platforms -->
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
+  </a>
+  <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows" />
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" />
+  </a>
+</div>
+
+<br/>
+
+<!-- SEE YA -->
+<div align="center" width="200" >
+  <samp> Me gusta trabajar en cosas <strong>innovadoras</strong>, si necesitas ayuda <br/>con algo así no dudes en pedirme ayuda :D </samp>
+  <br/>
+  <a href="https://www.linkedin.com/in/josé-de-jesús-torres-esparza-5834b2286/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
+
+<br/>
 
 
 <!-- FOOTER -->
