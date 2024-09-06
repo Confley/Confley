@@ -14,7 +14,7 @@
 </br><br/>
 
 <!-- CONTENT -->
-<img align='right' src='https://i.pinimg.com/originals/ba/c1/cd/bac1cdc1522ec6e9305e9e9b38b20bfd.gif' width='440'>
+<img align='right' src='gateto-final.gif' width='400'>
 
 ### [Stack](https://skillicons.dev)
 
