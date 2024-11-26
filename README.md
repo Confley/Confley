@@ -93,10 +93,10 @@
   <samp> Me gusta trabajar en cosas <strong>innovadoras</strong>, si necesitas apoyo <br/>con algo así no dudes en pedirme ayuda :D </samp>
   <br/><br/>
   <a href="https://www.linkedin.com/in/confley">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" title="Linkedin" />
   </a>
   <a href="https://confley.vercel.app/" target="_blank">
-    <img src='Logo mini (complete).png' style="width:51px;">
+    <img src='Logo mini (complete).png' style="width:51px;" alt="Portafolio" title="Portafolio" />
   </a>
 </div>
 
