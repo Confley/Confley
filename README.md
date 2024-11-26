@@ -81,9 +81,6 @@
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" />
   </a>
-  <a href="https://docs.mql4.com/en" target="_blank">
-    <img src="mql4 logo.png" alt="MQL4" title="MQL4"  style="width:50px;" />
-  </a>
 </div>
 
 <br/>
