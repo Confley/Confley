@@ -96,7 +96,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://confley.vercel.app/" target="_blank">
-    <img src='Logo mini (complete).png' style="width:50px;">
+    <img src='Logo mini (complete).png' style="width:51px;">
   </a>
 </div>
 
