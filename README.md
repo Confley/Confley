@@ -89,7 +89,7 @@
 <div align="center" width="200" >
   <samp> Me gusta trabajar en cosas <strong>innovadoras</strong>, si necesitas apoyo <br/>con algo así no dudes en pedirme ayuda :D </samp>
   <br/><br/>
-  <a href="https://www.linkedin.com/in/josé-de-jesús-torres-esparza-5834b2286/">
+  <a href="https://www.linkedin.com/in/confley">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://confley.vercel.app/" target="_blank">
