@@ -92,6 +92,9 @@
   <a href="https://www.linkedin.com/in/josé-de-jesús-torres-esparza-5834b2286/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://confley.vercel.app/" target="_blank">
+    <img src='Logo mini (complete).png' style="width:50px;">
+  </a>
 </div>
 
 <br/>
