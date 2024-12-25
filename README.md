@@ -5,9 +5,10 @@
 <!-- PRESENTATION -->
 <div align="center" width="200" >
   <samp>
-    Yo soy 
-    <a href="https://confley.vercel.app/"><strong>Confley</strong></a> desarrollador 
-    <strong>full-stack (JR)</strong> apasionado por resolver problemas y no que los problemas me resuelvan a mi :v
+    I'm 
+    <a href="https://confley.vercel.app/"><strong>Confley</strong></a> 
+    <strong> full-stack (JR) </strong> 
+    passionate about solving problems and not having problems solve me :v
   </samp>
 </div>
 
@@ -75,7 +76,9 @@
 
 <!-- SEE YA -->
 <div align="center" width="200" >
-  <samp> Me gusta trabajar en cosas <strong>innovadoras</strong>, si necesitas apoyo <br/>con algo así no dudes en pedirme ayuda :D </samp>
+  <samp>
+    I like to work on <strong> innovative things</strong>, if you need support <br/>with something like this don't hesitate to ask me for help :D 
+  </samp>
   <br/><br/>
   <a href="https://www.linkedin.com/in/confley">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" title="Linkedin" />
