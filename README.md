@@ -7,7 +7,7 @@
   <samp>
     Yo soy 
     <a href="https://confley.vercel.app/"><strong>Confley</strong></a> desarrollador 
-    <strong>full-stack</strong> apasionado por resolver problemas y no que los problemas me resuelvan a mi :v
+    <strong>full-stack (JR)</strong> apasionado por resolver problemas y no que los problemas me resuelvan a mi :v
   </samp>
 </div>
 
@@ -37,9 +37,6 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />
-  </a>
   <br/>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" />
@@ -55,28 +52,16 @@
   <a href="https://firebase.google.com/docs?hl=es-419" target="_blank">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" />
   </a>
-  <a href="https://www.sqlite.org/docs.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" />
-  </a>
 
   <!-- Tools -->
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
   </a>
   <br/>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
-  </a>
-  <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" title="Sublime Text" />
-  </a>
 
   <!-- Platforms -->
   <a href="https://vercel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
-  </a>
-  <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows" />
   </a>
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" />
