@@ -71,13 +71,13 @@ Tools for my agents: a harness I seed into every repo, and a memory they read be
   <a href="https://www.linkedin.com/in/confley" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0066FF" alt="LinkedIn" title="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://confley.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=0066FF" alt="Portfolio" title="Portfolio"/>
   </a>
   <br/><br/>
-  <sub><samp><a href="https://confley.vercel.app/" target="_blank">·</a></samp></sub>
+  <a href="https://confley.vercel.app/" target="_blank"><img src="dot.svg" width="60" alt=""/></a>
 </div>
-
 
 <!-- FOOTER -->
   <img src="https://capsule-render.vercel.app/api?color=0:0066ff,40:0033aa,100:000000&height=100&section=footer&type=waving&fontColor=fefefe"
